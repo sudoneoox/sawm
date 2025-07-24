@@ -1,0 +1,1 @@
+return require "fishlive.colorscheme".tomorrow_night
